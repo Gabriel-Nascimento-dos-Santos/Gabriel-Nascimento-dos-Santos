@@ -40,8 +40,8 @@
 
 ## 📌 Projetos em destaque
 
-🔹 **Sistema de Agendamento**
-Projeto desenvolvido para gerenciar horários e clientes
+🔹 **Sistema de Agendamento Baileys**
+Projeto de uma "secretária" via WhatsApp
 👉 Em desenvolvimento
 
 🔹 **Sistema BIP para Mercearia**
