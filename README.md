@@ -23,10 +23,12 @@
 * CSS3
 * JavaScript
 * React
+  
 
 ### Back-end (em aprendizado)
 
 * Python
+* Node
 
 ### Ferramentas
 
