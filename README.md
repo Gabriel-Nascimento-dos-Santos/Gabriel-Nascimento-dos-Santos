@@ -25,7 +25,7 @@
 * React
   
 
-### Back-end (em aprendizado)
+### Back-end 
 
 * Python
 * Node
@@ -34,18 +34,13 @@
 
 * Git & GitHub
 * VS Code
-* Figma
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projeto em destaque
 
 🔹 **Sistema de Agendamento Baileys**
 Projeto de uma "secretária" via WhatsApp
-👉 Em desenvolvimento
-
-🔹 **Sistema BIP para Mercearia**
-Sistema com leitura de código de barras via câmera
 👉 Em desenvolvimento
 
 ---
