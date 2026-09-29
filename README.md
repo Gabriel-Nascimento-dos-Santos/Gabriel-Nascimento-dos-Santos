@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Gabriel Nascimento!
 
-💻 Desenvolvedor em formação apaixonado por tecnologia
+💻 Desenvolvedor em formação
+
 🚀 Atualmente focado em **Node, JavaScript e desenvolvimento web**
 📍 Brasil - MG - Juiz de fora
 
