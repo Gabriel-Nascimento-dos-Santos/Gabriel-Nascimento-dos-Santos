@@ -3,6 +3,7 @@
 💻 Desenvolvedor em formação
 
 🚀 Atualmente focado em **Node, JavaScript e desenvolvimento web**
+
 📍 Brasil - MG - Juiz de fora
 
 ---
